@@ -1,0 +1,68 @@
+[
+  {
+    "id": "vedas",
+    "name": "Vedas",
+    "category": "Shruti",
+    "date": "1500–500 BCE",
+    "contributors": ["Ancient Rishis"],
+    "overview": "Foundational sacred texts of Hinduism.",
+    "link": "https://en.wikipedia.org/wiki/Vedas",
+    "publicText": "https://sacred-texts.com/hin/index.htm",
+    "connections": ["upanishads", "brahma-sutras"]
+  },
+  {
+    "id": "upanishads",
+    "name": "Upanishads",
+    "category": "Shruti",
+    "date": "800–200 BCE",
+    "contributors": ["Yajnavalkya", "Uddalaka"],
+    "overview": "Philosophical texts on Brahman and Atman.",
+    "link": "https://en.wikipedia.org/wiki/Upanishads",
+    "publicText": "https://sacred-texts.com/hin/index.htm",
+    "connections": ["vedanta", "brahma-sutras"]
+  },
+  {
+    "id": "mahabharata",
+    "name": "Mahabharata",
+    "category": "Smriti",
+    "date": "400 BCE – 400 CE",
+    "contributors": ["Vyasa"],
+    "overview": "Epic centered on the Kurukshetra war.",
+    "link": "https://en.wikipedia.org/wiki/Mahabharata",
+    "publicText": "https://sacred-texts.com/hin/maha/index.htm",
+    "connections": ["bhagavad-gita"]
+  },
+  {
+    "id": "bhagavad-gita",
+    "name": "Bhagavad Gita",
+    "category": "Smriti",
+    "date": "2nd century BCE",
+    "contributors": ["Vyasa"],
+    "overview": "Dialogue between Krishna and Arjuna.",
+    "link": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+    "publicText": "https://sacred-texts.com/hin/gita/index.htm",
+    "connections": ["vedanta", "yoga-sutras"]
+  },
+  {
+    "id": "brahma-sutras",
+    "name": "Brahma Sutras",
+    "category": "Vedanta",
+    "date": "400–200 BCE",
+    "contributors": ["Badarayana"],
+    "overview": "Systematic interpretation of Upanishads.",
+    "link": "https://en.wikipedia.org/wiki/Brahma_Sutras",
+    "publicText": "",
+    "connections": ["vedanta"]
+  },
+  {
+    "id": "vedanta",
+    "name": "Vedanta",
+    "category": "Darshana",
+    "date": "500 BCE onward",
+    "contributors": ["Shankara", "Ramanuja"],
+    "overview": "Philosophical school based on Upanishads.",
+    "link": "https://en.wikipedia.org/wiki/Vedanta",
+    "publicText": "",
+    "connections": []
+  }
+]
