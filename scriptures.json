@@ -4,62 +4,89 @@
     "name": "Vedas",
     "category": "Shruti",
     "date": "1500–500 BCE",
-    "contributors": ["Ancient Rishis"],
-    "overview": "Foundational sacred texts of Hinduism.",
+    "contributors": [
+      "Ancient Rishis"
+    ],
+    "overview": "4 Vedas containing hymns, rituals, cosmology, and spiritual knowledge. They form the foundational layer of Hindu thought and practice and are the source of later philosophical traditions.",
     "link": "https://en.wikipedia.org/wiki/Vedas",
     "publicText": "https://sacred-texts.com/hin/index.htm",
-    "connections": ["upanishads", "brahma-sutras"]
+    "connections": [
+      "upanishads",
+      "brahma-sutras"
+    ]
   },
   {
     "id": "upanishads",
     "name": "Upanishads",
     "category": "Shruti",
     "date": "800–200 BCE",
-    "contributors": ["Yajnavalkya", "Uddalaka"],
-    "overview": "Philosophical texts on Brahman and Atman.",
+    "contributors": [
+      "Yajnavalkya",
+      "Uddalaka"
+    ],
+    "overview": "108 traditionally recognized philosophical texts exploring Brahman, Atman, consciousness, self-realization, and liberation. They represent the culmination of Vedic wisdom.",
     "link": "https://en.wikipedia.org/wiki/Upanishads",
     "publicText": "https://sacred-texts.com/hin/index.htm",
-    "connections": ["vedanta", "brahma-sutras"]
+    "connections": [
+      "vedanta",
+      "brahma-sutras"
+    ]
   },
   {
     "id": "mahabharata",
     "name": "Mahabharata",
     "category": "Smriti",
     "date": "400 BCE – 400 CE",
-    "contributors": ["Vyasa"],
-    "overview": "Epic centered on the Kurukshetra war.",
+    "contributors": [
+      "Vyasa"
+    ],
+    "overview": "The world's longest epic with approximately 100,000 verses. It explores dharma, ethics, politics, kingship, warfare, and contains the Bhagavad Gita.",
     "link": "https://en.wikipedia.org/wiki/Mahabharata",
     "publicText": "https://sacred-texts.com/hin/maha/index.htm",
-    "connections": ["bhagavad-gita"]
+    "connections": [
+      "bhagavad-gita"
+    ]
   },
   {
     "id": "bhagavad-gita",
     "name": "Bhagavad Gita",
     "category": "Smriti",
     "date": "2nd century BCE",
-    "contributors": ["Vyasa"],
-    "overview": "Dialogue between Krishna and Arjuna.",
+    "contributors": [
+      "Vyasa"
+    ],
+    "overview": "700 verses across 18 chapters. A dialogue between Krishna and Arjuna covering karma yoga, bhakti yoga, jnana yoga, duty, and liberation.",
     "link": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
     "publicText": "https://sacred-texts.com/hin/gita/index.htm",
-    "connections": ["vedanta", "yoga-sutras"]
+    "connections": [
+      "vedanta",
+      "yoga-sutras"
+    ]
   },
   {
     "id": "brahma-sutras",
     "name": "Brahma Sutras",
     "category": "Vedanta",
     "date": "400–200 BCE",
-    "contributors": ["Badarayana"],
-    "overview": "Systematic interpretation of Upanishads.",
+    "contributors": [
+      "Badarayana"
+    ],
+    "overview": "555 aphorisms that systematize and interpret the teachings of the Upanishads, forming a core text of Vedanta.",
     "link": "https://en.wikipedia.org/wiki/Brahma_Sutras",
     "publicText": "",
-    "connections": ["vedanta"]
+    "connections": [
+      "vedanta"
+    ]
   },
   {
     "id": "vedanta",
     "name": "Vedanta",
     "category": "Darshana",
     "date": "500 BCE onward",
-    "contributors": ["Shankara", "Ramanuja"],
+    "contributors": [
+      "Shankara",
+      "Ramanuja"
+    ],
     "overview": "Philosophical school based on Upanishads.",
     "link": "https://en.wikipedia.org/wiki/Vedanta",
     "publicText": "",
